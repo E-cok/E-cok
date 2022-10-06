@@ -1,4 +1,7 @@
 <div align = "center">
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=E-cok&fontSize=90)
+
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Hi%20I'm&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=E-cok&descAlignY=70">
 </div>
 <br>
