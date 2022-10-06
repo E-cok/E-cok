@@ -1,5 +1,5 @@
 <div align = "center">
-.
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=E-cok&fontSize=90&fontAlign=80)
 #
 </div>
