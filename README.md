@@ -4,9 +4,7 @@
 #
 </div>
 
-
 ![E-cok's github stats](https://github-readme-stats.vercel.app/api?username=E-cok&show_icons=true&theme=dark) 
-    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-cok&layout=compact&theme=dracula)](https://github.com/E-cok)
     
 <hr>
