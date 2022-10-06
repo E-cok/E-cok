@@ -24,7 +24,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:e-book@kakao.com">
     <img 
-        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:e-book@kakao.com"
+        src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=KakaoTalk&logoColor=white&link=mailto:e-book@kakao.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
