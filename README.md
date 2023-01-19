@@ -4,11 +4,9 @@
 #
 </div>
 
-<div align = "center">
 ![E-cok's github stats](https://github-readme-stats.vercel.app/api?username=E-cok&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-cok&layout=compact&theme=dracula)](https://github.com/E-cok)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goqwe1250)](https://solved.ac/goqwe1250/)
-</div>
 <hr>
     
 # 💪Skills
